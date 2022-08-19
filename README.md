@@ -1,4 +1,4 @@
-#  Hola Mundo Web3 Starter Project - (English/Español)!
+# 🧶 Hola Mundo Web3 Starter Project - (English/Español)!
 * [Clic para Español 🌈](#spanish)
 * [Click for English 🌈](#english)
 ---
