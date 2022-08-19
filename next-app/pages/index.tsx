@@ -132,8 +132,8 @@ const Home: NextPage = () => {
         <br></br>
         <div className="space-y-8">
           <div className="flex flex-row space-x-1">
-              <h1 className="p-2 font-extrabold text-transparent text-8xl bg-clip-text bg-gradient-to-r from-purple-400 to-blue-600">Hola</h1>
-              <h1 className="p-2 font-extrabold text-transparent text-8xl bg-clip-text bg-gradient-to-r from-green-400 to-red-600">{greeting && typeof window !== 'undefined' ? greeting : "<???>"}</h1>
+              <h1 className="p-2 font-extrabold text-transparent text-8xl bg-clip-text bg-gradient-to-r from-purple-400 to-blue-600">Que onda</h1>
+              <h1 className="p-2 font-extrabold text-transparent text-8xl bg-clip-text bg-gradient-to-r from-green-400 to-red-600">{greeting && typeof window !== 'undefined' ? greeting : "< >"}</h1>
               { showSpinner && typeof window !== 'undefined' ? <Spinner/> : "" }
               <h1 className="p-2 font-extrabold text-transparent text-8xl bg-clip-text bg-gradient-to-r from-orange-400 to-violet-600">!</h1>
           </div>
