@@ -1,1 +1,1 @@
-export const goerliContractAddress = "0xf7c2EA5321F282425cB9477e2a0086f4AF343243"
+export const goerliContractAddress = "0x8eAb0DEe22A827ccb79335e3cD04a4EB708d10e9"
